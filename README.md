@@ -212,11 +212,3 @@ You can easily extend this pipeline to:
 **Jay Vardhan**
 Applied AI | Dense Retrieval | RAG Systems
 
----
-
-If you want, I can also provide:
-
-* 📊 Retrieval metrics code
-* 🔁 Multi-embedding fusion retriever
-* 🧩 RAG + LLM integration
-* 📦 Clean modular refactor
